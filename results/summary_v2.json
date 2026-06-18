@@ -1,0 +1,10 @@
+{
+  "version": "v2_with_vegetation_filter",
+  "total_pairs": 348,
+  "successful_pairs": 348,
+  "avg_iou": 0.0822224137835675,
+  "avg_precision": 0.1028594851064315,
+  "avg_recall": 0.39813765762514386,
+  "avg_f1": 0.13586772677379316,
+  "total_time_seconds": 2980.5870134830475
+}

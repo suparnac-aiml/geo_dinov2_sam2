@@ -1,0 +1,10 @@
+{
+  "total_pairs": 348,
+  "successful_pairs": 348,
+  "failed_pairs": 0,
+  "avg_iou": 0.07905559827436344,
+  "avg_precision": 0.09854246075894295,
+  "avg_recall": 0.3995959658596333,
+  "avg_f1": 0.13073166998667718,
+  "total_time_seconds": 2740.7369236946106
+}

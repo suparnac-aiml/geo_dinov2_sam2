@@ -1,0 +1,8 @@
+geosam-env/
+__pycache__/
+*.pyc
+*.pem
+results/masks/*.png
+*.pt
+*.pth
+.DS_Store
